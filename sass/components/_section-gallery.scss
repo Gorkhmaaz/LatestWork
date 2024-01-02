@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+    margin-bottom: 42px;
+}
+.section-gallery-list{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+.section-gallery-cards{
+   img{
+    width: 100%;
+    height: 340px;
+    margin-bottom: 18px;
+   }
+   h3{
+    margin-bottom: 8px;
+    align-self: stretch;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    color:#2D2D2D;
+    }
+
+   }
+   p{
+    margin-bottom: 24px;
+    align-self: stretch;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    color:#2D2D2D ;
+   }
+
